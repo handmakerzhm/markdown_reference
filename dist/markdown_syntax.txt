@@ -168,14 +168,11 @@ Code block javascript example:
      
     let text = 'Are you ready to code some';
        
-    codeIt=()=> {
+    
     alert('This is Javascript');
     setTimeout (()=> alert(`${text} Javascript ? `), 1000);
     setTimeout (()=> document.write('press F12'), 2000);
-    };
-
-    codeIt();
-
+    
     //alert output
     This is Javascript
     //alert output2
