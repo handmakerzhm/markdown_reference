@@ -169,13 +169,11 @@ Code block javascript example:
     
     let text = 'Are you ready to code some';
        
-    codeIt =()=> {
+    
         alert('This is Javascript');
         setTimeout (()=> alert(`${text} Javascript ? `), 1000);
         setTimeout (()=> document.write('press F12'), 2000);
-    };
 
-    codeIt();
 
     //alert output
     This is Javascript
@@ -191,9 +189,9 @@ and
     
     const text2= 'Lets code some';
 
-    codeIt2 =()=> console.log(`${text2} javascript`);
+    console.log(`${text2} javascript`);
       
-    codeIt2();
+
 
     //console output
     Lets code some javascript
