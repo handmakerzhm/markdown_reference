@@ -143,37 +143,20 @@ npm start
 
 Code block javascript example:
 
-```javascript
-    
-    let text = 'Are you ready to code some';
-       
-    
-        alert('This is Javascript');
-        setTimeout (()=> alert(`${text} Javascript ? `), 1000);
-        setTimeout (()=> document.write('press F12'), 2000);
-
-
-    //alert output
-    This is Javascript
-    //alert output2
-     Are you ready to code some javascript
-     //document.write output
-     press F12
 
 ```
-
-and
-```javascript
+ 
+    const character_1 = 'lester badplate';
+    const character_2 = 'timothy tooly';
     
-    const text2= 'Lets code some';
-
-    console.log(`${text2} javascript`);
-      
+    console.log(character_1);
+    console.log(character_2);
+    console.log(`${character_1} and ${character_2} are running rampant unsupervised.`);
+    
 
 
     //console output
-    Lets code some javascript
-
+    lester badplate and timothy tooly are running rampant unserpervised.
 ```
 
 
