@@ -7,7 +7,6 @@ filename.md
 
 * Forums & blog posts.
 
-
 * Used in static site generators.
 
 * Good for taking notes.
@@ -15,27 +14,6 @@ filename.md
 ---
 >NOTE :
 
->I'm not sure about this formatting, when
-I add 3 hyphens below the text
-with no space the text becomes
-larger.  In the examples were
-you see 3 hyphens below the
-sentence without double spaces. Refer
-to markdown_syntax.md for the
-syntax.
-
----
-
-
-Markdown Editors that are used for markdown.
-
-Markpad
-
-Haroopad
-
-Markdownpad2
-
-Typora
 
 Text Editor Extensions(VSCode,Atom,etc). For VSCode
 Auto-open-markdown-preview, is a good extension that automatically shows the result when you open up the open preview toggle in your text editor.
