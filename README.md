@@ -1,7 +1,7 @@
 # markdown_reference
 Markdown Syntax Sheet
 
-Basic syntax style note taking.
+Basic syntax and reference.
 
 ---
 
@@ -11,4 +11,4 @@ Resource links:
 
 ---
 
-{HM}
+
